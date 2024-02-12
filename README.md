@@ -8,7 +8,7 @@ and Stress Reduction Theory to understand the profound impact of nature on human
 Additionally, I investigate the potential benefits of using brown noise to enhance focus, especially for individuals with ADHD.
 
 Furthermore, I examined how technology has been used to mimic natural environments for therapeutic purposes,
-citing examples such as light therapy devices and visual weather displays. Inspired by these advancements, 
+citing examples such as light therapy devices and visual weather displays. In result 
 Creating my own interface —a wave tank controlled by an Arduino to visualize surf forecasts indoors.
 
 Despite encountering challenges with coding and integrating APIs, I developed a prototype that simulates waves.
